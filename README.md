@@ -1,4 +1,8 @@
+<p align="center"><img src="https://github.com/mongodb/mongo-go-driver/raw/master/etc/assets/mongo-gopher.png" width="250"></p>
+
 # connpool
+
+The connection pool for MongoDB.
 
 ## installation
 
@@ -6,7 +10,7 @@
 go get github.com/podanypepa/connpool/mongodb
 ```
 
-## ussage
+## usage
 
 ```go
 package main
