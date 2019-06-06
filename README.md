@@ -2,7 +2,7 @@
 
 # connpool
 
-Golang package for creating a usage connection pool to MongoDB.
+Golang package for creating a connection pool to MongoDB.
 
 ## installation
 
