@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github.com/mongodb/mongo-go-driver/raw/master/etc/assets/mongo-gopher.png" width="250"></p>
 
+<p align="center">
+ <a href="https://goreportcard.com/report/go.mongodb.org/mongo-driver"><img src="https://goreportcard.com/badge/github.com/podanypepa/connpool"></a>
+</p>
+
 # connpool
 
 Golang package for creating a connection pool to MongoDB.
