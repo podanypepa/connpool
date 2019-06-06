@@ -121,5 +121,7 @@ func (cp *mcp) GetRoundRobin() (*mongo.Client, uint32) {
 	if cp.last == cp.count {
 		cp.last = 0
 	}
-	return cp.con[cp.last], uint32(cp.last)
+	n := cp.last
+
+	return cp.con[n], uint32(n)
 }
